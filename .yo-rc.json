@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.18.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "react-property-pane-icons",
+    "libraryId": "edb1b8cd-b7f1-4ecd-8064-af725306e573",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "React_PropertyPaneIcons",
+    "solutionShortDescription": "React_PropertyPaneIcons description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

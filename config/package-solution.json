@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-property-pane-icons-client-side-solution",
+    "id": "edb1b8cd-b7f1-4ecd-8064-af725306e573",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "React_PropertyPaneIcons description"
+      },
+      "longDescription": {
+        "default": "React_PropertyPaneIcons description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "react-property-pane-icons Feature",
+        "description": "The feature that activates elements of the react-property-pane-icons solution.",
+        "id": "2dee257f-5900-4154-a24c-97136a47ef9f",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/react-property-pane-icons.sppkg"
+  }
+}
